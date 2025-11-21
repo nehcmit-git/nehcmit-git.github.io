@@ -1,8 +1,23 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于我"
+excerpt: "About Tim Chen"
+last_modified_at: 2025-11-21
+toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 👋 这里的访客，你好
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+我是 **Tim Chen**，目前就读于位于江苏南京的 **东南大学 (SEU)**。
+
+这是一个用于记录我 **数学学习**、**学习心得** 以及 **生活随想** 的个人博客。
+
+## 📺 关注我
+
+也许后续会在B站更新视频吧……
+
+[**点击跳转我的 Bilibili 主页**](https://space.bilibili.com/1413330916)
+
+---
+[**点击跳转我的 Youtube 主页**](www.youtube.com/@nechmit)
+---
