@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: timchenlab
 minimal_mistakes_skin: default
 search: true
+mathjax: true
 
 # Build settings
 markdown: kramdown
