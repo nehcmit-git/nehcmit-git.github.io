@@ -61,8 +61,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Yantian Chen"
+  avatar : "/assets/images/web-bio.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
